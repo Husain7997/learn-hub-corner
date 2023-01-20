@@ -1,0 +1,16 @@
+.nav-brand img {
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+    border: none;
+}
+
+.dark {
+    background-color: #333;
+    color: #fff;
+}
+
+.light {
+    background-color: #fff;
+    color: #333;
+}
